@@ -1,0 +1,6 @@
+Mittwoch:
+ - Ultimate Frisbee (ULT) 17:30 - 19:00
+ - Handball (HAN) 19:45 - 21:45
+ - Fußball (FUH) 19:00 - 20:30
+ - Badminton 2 (BAD2) 19:45 - 20:45
+ - Badminton 3 (BAD3) 20:45 - 21:45

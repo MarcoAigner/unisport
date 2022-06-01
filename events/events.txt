@@ -4,3 +4,12 @@ Mittwoch:
  - Fußball (FUH) 19:00 - 20:30
  - Badminton 2 (BAD2) 19:45 - 20:45
  - Badminton 3 (BAD3) 20:45 - 21:45
+
+Freitag:
+  - Fußball (FUH) 19:00 - 20:30
+  - Badminton 4 (BAD4) 18:00 - 19:00
+  - Badminton 5 (BAD5) 19:00 - 20:00
+  - Futsal 2 (FUT2) 15:30 - 17:00
+  - Volleyball 2 (VOLW2) 18:40 - 20:00
+  - Basketball 2 (BBW2) 20:05 - 21:45
+  - Volleyball 3 (VOLW3) 20:10 - 21:45
